@@ -1,0 +1,16 @@
+{
+  "name": "toms_manager_redmine",
+  "version": "1.0.0",
+  "main": "toms_manager.js",
+  "dependencies": {
+    "sequence": "^3.0.0",
+    "request": "^2.45.0",
+    "synchronize": "^0.9.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BLThunder1991",
+  "license": "MIT"
+}

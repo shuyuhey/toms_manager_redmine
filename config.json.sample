@@ -1,0 +1,10 @@
+{
+    "redmine_url": "Redmine url",
+    "redmine_key": "Redmine access key",
+    "redmine_project_id": "target project id",
+    "slack_url": "slack webhook url",
+    "slack_token": "slack whebhook token",
+    "slack_post_channel": "target channel",
+    "slack_username": "bot name",
+    "slack_icon_emoji": "icon"
+}
